@@ -29,7 +29,7 @@
   {
     "name": "M1L2 (Pummel) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L2 (Pummel)|"
+    "requires": "|M1L2 (Pummel)| or |Mission 1 - Rebirth|"
   },
   {
     "name": "M1L2 (Pummel) - Bronze Medal",
@@ -54,7 +54,7 @@
   {
     "name": "M1L2 (Pummel) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "|M1L2 (Pummel)| and |Purify (discard)|"
+    "requires": "(|M1L2 (Pummel)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
   },
   
   
@@ -62,7 +62,7 @@
   {
     "name": "M1L3 (Gunner) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L3 (Gunner)| and |Purify (discard)|"
+    "requires": "(|M1L3 (Gunner)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
   },
   {
     "name": "M1L3 (Gunner) - Bronze Medal",
@@ -87,7 +87,7 @@
   {
     "name": "M1L3 (Gunner) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "|M1L3 (Gunner)| and |Purify (discard)|"
+    "requires": "(|M1L3 (Gunner)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
   },
   
   
@@ -95,7 +95,7 @@
   {
     "name": "M1L4 (Cascade) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L4 (Cascade)| and |Elevate (discard)|"
+    "requires": "(|M1L4 (Cascade)| or |Mission 1 - Rebirth|) and |Elevate (discard)|"
   },
   {
     "name": "M1L4 (Cascade) - Bronze Medal",
@@ -120,7 +120,7 @@
   {
     "name": "M1L4 (Cascade) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "|M1L4 (Cascade)| and |Elevate (main fire)| and |Elevate (discard)|"
+    "requires": "(|M1L4 (Cascade)| or |Mission 1 - Rebirth|) and |Elevate (main fire)| and |Elevate (discard)|"
   },
   
   
@@ -128,7 +128,7 @@
   {
     "name": "M1L5 (Elevate) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L5 (Elevate)|"
+    "requires": "|M1L5 (Elevate)| or |Mission 1 - Rebirth|"
   },
   {
     "name": "M1L5 (Elevate) - Bronze Medal",
@@ -161,7 +161,7 @@
   {
     "name": "M1L6 (Bounce) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L6 (Bounce)| and |Elevate (discard)|"
+    "requires": "(|M1L6 (Bounce)| or |Mission 1 - Rebirth|) and |Elevate (discard)|"
   },
   {
     "name": "M1L6 (Bounce) - Bronze Medal",
@@ -186,7 +186,7 @@
   {
     "name": "M1L6 (Bounce) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "|M1L6 (Bounce)| and |Elevate (main fire)| and |Elevate (discard)|"
+    "requires": "(|M1L6 (Bounce)| or |Mission 1 - Rebirth|) and |Elevate (main fire)| and |Elevate (discard)|"
   },
   
   
@@ -194,7 +194,7 @@
   {
     "name": "M1L7 (Purify) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L7 (Purify)| and |Purify (discard)|"
+    "requires": "(|M1L7 (Purify)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Bronze Medal",
@@ -214,12 +214,12 @@
   {
     "name": "M1L7 (Purify) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "requires": "|M1L7 (Purify)| and |Purify (discard)|"
+    "requires": "(|M1L7 (Purify)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "|M1L7 (Purify)| and |Purify (main fire)| and |Purify (discard)|"
+    "requires": "(|M1L7 (Purify)| or |Mission 1 - Rebirth|) and |Purify (main fire)| and |Purify (discard)|"
   },
   
   
@@ -227,7 +227,7 @@
   {
     "name": "M1L8 (Climb) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L8 (Climb)| and |Purify (discard)|"
+    "requires": "(|M1L8 (Climb)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
   },
   {
     "name": "M1L8 (Climb) - Bronze Medal",
@@ -260,12 +260,12 @@
   {
     "name": "M1L9 (Fasttrack) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L9 (Fasttrack)| and |Purify (discard)| and |Elevate (discard)|"
+    "requires": "(|M1L9 (Fasttrack)| or |Mission 1 - Rebirth|) and |Purify (discard)| and |Elevate (discard)|"
   },
   {
     "name": "M1L9 (Fasttrack) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "requires": "|M1L9 (Fasttrack)|"
+    "requires": "|M1L9 (Fasttrack)| or |Mission 1 - Rebirth|"
   },
   {
     "name": "M1L9 (Fasttrack) - Silver Medal",
@@ -285,7 +285,7 @@
   {
     "name": "M1L9 (Fasttrack) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "|M1L9 (Fasttrack)| and |Purify (main fire)| and |Purify (discard)|"
+    "requires": "(|M1L9 (Fasttrack)| or |Mission 1 - Rebirth|) and |Purify (main fire)| and |Purify (discard)|"
   },
   
   
@@ -293,12 +293,12 @@
   {
     "name": "M1L10 (Glass Port) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L10 (Glass Port)| and (|Elevate (discard)| or |Purify (discard)|)"
+    "requires": "(|M1L10 (Glass Port)| or |Mission 1 - Rebirth|) and (|Elevate (discard)| or |Purify (discard)|)"
   },
   {
     "name": "M1L10 (Glass Port) - Beat The Level",
     "category": ["Goal"],
-    "requires": "|M1L10 (Glass Port)| and ((|Katana| and |Elevate (discard)|) or |Purify (discard)|)",
+    "requires": "(|M1L10 (Glass Port)| or |Mission 1 - Rebirth|) and ((|Katana| and |Elevate (discard)|) or |Purify (discard)|)",
     "victory": true
   }
 ]

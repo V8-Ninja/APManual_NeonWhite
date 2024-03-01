@@ -1,26 +1,26 @@
 {
   "M1L2 Medal Minimum": {
-    "requires": "|M1L2 (Pummel)|"
+    "requires": "|M1L2 (Pummel)| or |Mission 1 - Rebirth|"
   },
   "M1L3 Medal Minimum": {
-    "requires": "|M1L3 (Gunner)|"
+    "requires": "|M1L3 (Gunner)| or |Mission 1 - Rebirth|"
   },
   "M1L4 Medal Minimum": {
-    "requires": "|M1L4 (Cascade)| and |Elevate (discard)|"
+    "requires": "(|M1L4 (Cascade)| or |Mission 1 - Rebirth|) and |Elevate (discard)|"
   },
   "M1L5 Medal Minimum": {
-    "requires": "|M1L5 (Elevate)| and |Elevate (discard)|"
+    "requires": "(|M1L5 (Elevate)| or |Mission 1 - Rebirth|) and |Elevate (discard)|"
   },
   "M1L6 Medal Minimum": {
-    "requires": "|M1L6 (Bounce)| and |Elevate (discard)|"
+    "requires": "(|M1L6 (Bounce)| or |Mission 1 - Rebirth|) and |Elevate (discard)|"
   },
   "M1L7 Medal Minimum": {
-    "requires": "|M1L7 (Purify)| and |Purify (main fire)|"
+    "requires": "(|M1L7 (Purify)| or |Mission 1 - Rebirth|) and |Purify (main fire)|"
   },
   "M1L8 Medal Minimum": {
-    "requires": "|M1L8 (Climb)| and |Purify (discard)|"
+    "requires": "(|M1L8 (Climb)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
   },
   "M1L9 Medal Minimum": {
-    "requires": "|M1L9 (Fasttrack)| and |Katana|"
+    "requires": "(|M1L9 (Fasttrack)| or |Mission 1 - Rebirth|) and |Katana|"
   }
 }
