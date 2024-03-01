@@ -1,7 +1,4 @@
 {
-  "M1L1": {
-    "starting": true
-  },
   "M1L2 Medal Minimum": {
     "requires": "|M1L2 (Pummel)|"
   },

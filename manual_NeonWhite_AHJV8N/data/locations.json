@@ -1,33 +1,27 @@
 [
   {
     "name": "M1L1 (Movement) - Gift",
-    "category": ["Gifts"],
-    "region": "M1L1"
+    "category": ["Gifts"]
   },
   {
     "name": "M1L1 (Movement) - Bronze Medal",
-    "category": ["Medals", "Bronze"],
-    "region": "M1L1"
+    "category": ["Medals", "Bronze"]
   },
   {
     "name": "M1L1 (Movement) - Silver Medal",
-    "category": ["Medals", "Silver"],
-    "region": "M1L1"
+    "category": ["Medals", "Silver"]
   },
   {
     "name": "M1L1 (Movement) - Gold Medal",
-    "category": ["Medals", "Gold"],
-    "region": "M1L1"
+    "category": ["Medals", "Gold"]
   },
   {
     "name": "M1L1 (Movement) - Ace Medal",
-    "category": ["Medals", "Ace"],
-    "region": "M1L1"
+    "category": ["Medals", "Ace"]
   },
   {
     "name": "M1L1 (Movement) - Red Medal",
-    "category": ["Medals", "Red"],
-    "region": "M1L1"
+    "category": ["Medals", "Red"]
   },
   
   
