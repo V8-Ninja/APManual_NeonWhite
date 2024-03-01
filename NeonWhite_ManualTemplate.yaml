@@ -1,0 +1,87 @@
+﻿description: YAML for the Neon White Manual implementation
+
+game: Manual_NeonWhite_AHJV8N
+name: NeonShmuck{PLAYER}
+requires:
+  version: 0.4.4
+
+Manual_NeonWhite_AHJV8N:
+  progression_balancing:
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 1 # equivalent to 1
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # Locations: ensure everything can be reached and acquired.
+    # Items: ensure all logically relevant items can be acquired.
+    # Minimal: ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 1
+    minimal: 0
+
+  # WARNING: Either "level_unlocks" is true OR "mission_unlocks" is true.
+  # Enabling both options will lead to unexpected behavior.
+
+  # Levels can only be accessed after finding them in the multiworld
+  level_unlocks:
+    true: 1
+    false: 0
+  # All levels in a mission can be played once the mission is found
+  mission_unlocks:
+    true: 0
+    false: 1
+    
+  # Medals - Are the following medals checks? (Bronze enabled by default)
+  silver_medals:
+    true: 1
+    false: 0
+  gold_medals:
+    true: 1
+    false: 0
+  ace_medals:
+    true: 1
+    false: 0
+  red_medals:
+    true: 0
+    false: 1
+
+  exclude_locations:
+    []
+
+  start_inventory:
+    # Start with these items.
+    []
+
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_hints:
+    # Start with these item's locations prefilled into the !hint command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the !hint command
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  filler_traps:
+    0: 1
+    random: 0
+    random-low: 0
+    random-high: 0

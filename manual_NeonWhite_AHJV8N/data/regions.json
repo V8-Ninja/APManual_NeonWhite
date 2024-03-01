@@ -1,1 +1,29 @@
-{}
+{
+  "M1L1": {
+    "starting": true
+  },
+  "M1L2 Medal Minimum": {
+    "requires": "|M1L2 (Pummel)|"
+  },
+  "M1L3 Medal Minimum": {
+    "requires": "|M1L3 (Gunner)|"
+  },
+  "M1L4 Medal Minimum": {
+    "requires": "|M1L4 (Cascade)| and |Elevate (discard)|"
+  },
+  "M1L5 Medal Minimum": {
+    "requires": "|M1L5 (Elevate)| and |Elevate (discard)|"
+  },
+  "M1L6 Medal Minimum": {
+    "requires": "|M1L6 (Bounce)| and |Elevate (discard)|"
+  },
+  "M1L7 Medal Minimum": {
+    "requires": "|M1L7 (Purify)| and |Purify (main fire)|"
+  },
+  "M1L8 Medal Minimum": {
+    "requires": "|M1L8 (Climb)| and |Purify (discard)|"
+  },
+  "M1L9 Medal Minimum": {
+    "requires": "|M1L9 (Fasttrack)| and |Katana|"
+  }
+}

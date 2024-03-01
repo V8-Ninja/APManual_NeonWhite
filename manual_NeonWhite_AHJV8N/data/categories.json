@@ -1,8 +1,25 @@
 {
-    "Example Logic only category": {
-        "hidden": true
-    },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
-    }
+  "Levels": {
+    "yaml_option": ["level_unlocks"]
+  },
+  "Missions": {
+    "yaml_option": ["mission_unlocks"]
+  },
+  "Bronze": { "hidden": true },
+  "Silver": {
+    "yaml_option": ["silver_medals"],
+    "hidden": true
+  },
+  "Gold": {
+    "yaml_option": ["gold_medals"],
+    "hidden": true
+  },
+  "Ace": {
+    "yaml_option": ["ace_medals"],
+    "hidden": true
+  },
+  "Red": {
+    "yaml_option": ["red_medals"],
+    "hidden": true
+  }
 }
