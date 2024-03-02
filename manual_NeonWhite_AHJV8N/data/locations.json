@@ -34,22 +34,22 @@
   {
     "name": "M1L2 (Pummel) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L2 Medal Minimum"
+    "region": "M1L2"
   },
   {
     "name": "M1L2 (Pummel) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L2 Medal Minimum"
+    "region": "M1L2"
   },
   {
     "name": "M1L2 (Pummel) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L2 Medal Minimum"
+    "region": "M1L2"
   },
   {
     "name": "M1L2 (Pummel) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L2 Medal Minimum"
+    "region": "M1L2"
   },
   {
     "name": "M1L2 (Pummel) - Red Medal",
@@ -67,22 +67,22 @@
   {
     "name": "M1L3 (Gunner) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L3 Medal Minimum"
+    "region": "M1L3"
   },
   {
     "name": "M1L3 (Gunner) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L3 Medal Minimum"
+    "region": "M1L3"
   },
   {
     "name": "M1L3 (Gunner) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L3 Medal Minimum"
+    "region": "M1L3"
   },
   {
     "name": "M1L3 (Gunner) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L3 Medal Minimum"
+    "region": "M1L3"
   },
   {
     "name": "M1L3 (Gunner) - Red Medal",
@@ -95,32 +95,38 @@
   {
     "name": "M1L4 (Cascade) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L4 (Cascade)| or |Mission 1|) and |Elevate (discard)|"
+    "region": "M1L4",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L4 (Cascade) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L4 Medal Minimum"
+    "region": "M1L4",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L4 (Cascade) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L4 Medal Minimum"
+    "region": "M1L4",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L4 (Cascade) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L4 Medal Minimum"
+    "region": "M1L4",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L4 (Cascade) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L4 Medal Minimum"
+    "region": "M1L4",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L4 (Cascade) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L4 (Cascade)| or |Mission 1|) and |Elevate (main fire)| and |Elevate (discard)|"
+    "region": "M1L4",
+    "requires": "|Elevate (main fire)| and |Elevate (discard)|"
   },
   
   
@@ -128,32 +134,37 @@
   {
     "name": "M1L5 (Elevate) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L5 (Elevate)| or |Mission 1|"
+    "region": "M1L5"
   },
   {
     "name": "M1L5 (Elevate) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L5 Medal Minimum"
+    "region": "M1L5",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L5 (Elevate) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L5 Medal Minimum"
+    "region": "M1L5",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L5 (Elevate) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L5 Medal Minimum"
+    "region": "M1L5",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L5 (Elevate) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L5 Medal Minimum"
+    "region": "M1L5",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L5 (Elevate) - Red Medal",
     "category": ["Medals", "Red"],
-    "region": "M1L5 Medal Minimum"
+    "region": "M1L5",
+    "requires": "|Elevate (discard)|"
   },
   
   
@@ -161,32 +172,38 @@
   {
     "name": "M1L6 (Bounce) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L6 (Bounce)| or |Mission 1|) and |Elevate (discard)|"
+    "region": "M1L6",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L6 (Bounce) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L6 Medal Minimum"
+    "region": "M1L6",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L6 (Bounce) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L6 Medal Minimum"
+    "region": "M1L6",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L6 (Bounce) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L6 Medal Minimum"
+    "region": "M1L6",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L6 (Bounce) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L6 Medal Minimum"
+    "region": "M1L6",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M1L6 (Bounce) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L6 (Bounce)| or |Mission 1|) and |Elevate (main fire)| and |Elevate (discard)|"
+    "region": "M1L6",
+    "requires": "|Elevate (main fire)| and |Elevate (discard)|"
   },
   
   
@@ -194,32 +211,38 @@
   {
     "name": "M1L7 (Purify) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L7 (Purify)| or |Mission 1|) and |Purify (discard)|"
+    "region": "M1L7",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L7 Medal Minimum"
+    "region": "M1L7",
+    "requires": "|Purify (main fire)|"
   },
   {
     "name": "M1L7 (Purify) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L7 Medal Minimum"
+    "region": "M1L7",
+    "requires": "|Purify (main fire)|"
   },
   {
     "name": "M1L7 (Purify) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L7 Medal Minimum"
+    "region": "M1L7",
+    "requires": "|Purify (main fire)|"
   },
   {
     "name": "M1L7 (Purify) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "requires": "(|M1L7 (Purify)| or |Mission 1|) and |Purify (discard)|"
+    "region": "M1L7",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L7 (Purify)| or |Mission 1|) and |Purify (main fire)| and |Purify (discard)|"
+    "region": "M1L7",
+    "requires": "|Purify (main fire)| and |Purify (discard)|"
   },
   
   
@@ -227,32 +250,38 @@
   {
     "name": "M1L8 (Climb) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L8 (Climb)| or |Mission 1|) and |Purify (discard)|"
+    "region": "M1L8",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L8 (Climb) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L8 Medal Minimum"
+    "region": "M1L8",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L8 (Climb) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L8 Medal Minimum"
+    "region": "M1L8",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L8 (Climb) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L8 Medal Minimum"
+    "region": "M1L8",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L8 (Climb) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L8 Medal Minimum"
+    "region": "M1L8",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L8 (Climb) - Red Medal",
     "category": ["Medals", "Red"],
-    "region": "M1L8 Medal Minimum"
+    "region": "M1L8",
+    "requires": "|Purify (discard)|"
   },
   
   
@@ -260,32 +289,37 @@
   {
     "name": "M1L9 (Fasttrack) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L9 (Fasttrack)| or |Mission 1|) and |Purify (discard)| and |Elevate (discard)|"
+    "region": "M1L9",
+    "requires": "|Purify (discard)| and |Elevate (discard)|"
   },
   {
     "name": "M1L9 (Fasttrack) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "requires": "|M1L9 (Fasttrack)| or |Mission 1|"
+    "region": "M1L9"
   },
   {
     "name": "M1L9 (Fasttrack) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L9 Medal Minimum"
+    "region": "M1L9",
+    "requires": "|Katana|"
   },
   {
     "name": "M1L9 (Fasttrack) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L9 Medal Minimum"
+    "region": "M1L9",
+    "requires": "|Katana|"
   },
   {
     "name": "M1L9 (Fasttrack) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L9 Medal Minimum"
+    "region": "M1L9",
+    "requires": "|Katana|"
   },
   {
     "name": "M1L9 (Fasttrack) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L9 (Fasttrack)| or |Mission 1|) and |Purify (main fire)| and |Purify (discard)|"
+    "region": "M1L9",
+    "requires": "|Purify (main fire)| and |Purify (discard)|"
   },
   
   
@@ -293,32 +327,38 @@
   {
     "name": "M1L10 (Glass Port) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L10 (Glass Port)| or |Mission 1|) and (|Elevate (discard)| or |Purify (discard)|)"
+    "region": "M1L10",
+    "requires": "|Elevate (discard)| or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M1L10 Shared Minimums"
+    "region": "M1L10",
+    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M1L10 Shared Minimums"
+    "region": "M1L10",
+    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M1L10 Shared Minimums"
+    "region": "M1L10",
+    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M1L10 Shared Minimums"
+    "region": "M1L10",
+    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L10 (Glass Port)| or |Mission 1|) and |Purify (main fire)| and |Purify (discard)| and |Elevate (discard)|"
+    "region": "M1L10",
+    "requires": "|Purify (main fire)| and |Purify (discard)| and |Elevate (discard)|"
   },
   
   
@@ -331,22 +371,22 @@
   {
     "name": "M2L1 (Take Flight) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M2L1 Medal Minimum"
+    "region": "M2L1"
   },
   {
     "name": "M2L1 (Take Flight) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M2L1 Medal Minimum"
+    "region": "M2L1"
   },
   {
     "name": "M2L1 (Take Flight) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M2L1 Medal Minimum"
+    "region": "M2L1"
   },
   {
     "name": "M2L1 (Take Flight) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M2L1 Medal Minimum"
+    "region": "M2L1"
   },
   {
     "name": "M2L1 (Take Flight) - Red Medal",
@@ -369,22 +409,22 @@
   {
     "name": "M2L2 (Godspeed) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M2L2 Medal Minimum"
+    "region": "M2L2"
   },
   {
     "name": "M2L2 (Godspeed) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M2L2 Medal Minimum"
+    "region": "M2L2"
   },
   {
     "name": "M2L2 (Godspeed) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M2L2 Medal Minimum"
+    "region": "M2L2"
   },
   {
     "name": "M2L2 (Godspeed) - Red Medal",
     "category": ["Medals", "Red"],
-    "region": "M2L2 Medal Minimum"
+    "region": "M2L2"
   },
   
   
@@ -397,12 +437,12 @@
   {
     "name": "M2L3 (Dasher) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M2L3 Medal Minimum"
+    "region": "M2L3"
   },
   {
     "name": "M2L3 (Dasher) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M2L3 Medal Minimum"
+    "region": "M2L3"
   },
   {
     "name": "M2L3 (Dasher) - Gold Medal",
@@ -430,22 +470,22 @@
   {
     "name": "M2L4 (Thrasher) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M2L4 Medal Minimum"
+    "region": "M2L4"
   },
   {
     "name": "M2L4 (Thrasher) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M2L4 Medal Minimum"
+    "region": "M2L4"
   },
   {
     "name": "M2L4 (Thrasher) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M2L4 Medal Minimum"
+    "region": "M2L4"
   },
   {
     "name": "M2L4 (Thrasher) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M2L4 Medal Minimum"
+    "region": "M2L4"
   },
   {
     "name": "M2L4 (Thrasher) - Red Medal",

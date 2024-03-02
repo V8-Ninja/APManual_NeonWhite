@@ -1,44 +1,44 @@
 {
-  "M1L2 Medal Minimum": {
+  "M1L2": {
     "requires": "|M1L2 (Pummel)| or |Mission 1|"
   },
-  "M1L3 Medal Minimum": {
+  "M1L3": {
     "requires": "|M1L3 (Gunner)| or |Mission 1|"
   },
-  "M1L4 Medal Minimum": {
-    "requires": "(|M1L4 (Cascade)| or |Mission 1|) and |Elevate (discard)|"
+  "M1L4": {
+    "requires": "|M1L4 (Cascade)| or |Mission 1|"
   },
-  "M1L5 Medal Minimum": {
-    "requires": "(|M1L5 (Elevate)| or |Mission 1|) and |Elevate (discard)|"
+  "M1L5": {
+    "requires": "|M1L5 (Elevate)| or |Mission 1|"
   },
-  "M1L6 Medal Minimum": {
-    "requires": "(|M1L6 (Bounce)| or |Mission 1|) and |Elevate (discard)|"
+  "M1L6": {
+    "requires": "|M1L6 (Bounce)| or |Mission 1|"
   },
-  "M1L7 Medal Minimum": {
-    "requires": "(|M1L7 (Purify)| or |Mission 1|) and |Purify (main fire)|"
+  "M1L7": {
+    "requires": "|M1L7 (Purify)| or |Mission 1|"
   },
-  "M1L8 Medal Minimum": {
-    "requires": "(|M1L8 (Climb)| or |Mission 1|) and |Purify (discard)|"
+  "M1L8": {
+    "requires": "|M1L8 (Climb)| or |Mission 1|"
   },
-  "M1L9 Medal Minimum": {
-    "requires": "(|M1L9 (Fasttrack)| or |Mission 1|) and |Katana|"
+  "M1L9": {
+    "requires": "|M1L9 (Fasttrack)| or |Mission 1|"
   },
-  "M1L10 Shared Minimums": {
-    "requires": "(|M1L10 (Glass Port)| or |Mission 1|) and ((|Katana| and |Elevate (discard)|) or |Purify (discard)|)"
+  "M1L10": {
+    "requires": "|M1L10 (Glass Port)| or |Mission 1|"
   },
   
   
   
-  "M2L1 Medal Minimum": {
+  "M2L1": {
     "requires": "(|M2L1 (Take Flight)| or |Mission 2|) and |Elevate (discard)| and |Purify (discard)|"
   },
-  "M2L2 Medal Minimum": {
+  "M2L2": {
     "requires": "(|M2L2 (Godspeed)| or |Mission 2|) and |Godspeed (discard)|"
   },
-  "M2L3 Medal Minimum": {
+  "M2L3": {
     "requires": "(|M2L3 (Dasher)| or |Mission 2|) and (|Katana| or |Godspeed (main fire)|)"
   },
-  "M2L4 Medal Minimum": {
+  "M2L4": {
     "requires": "(|M2L4 (Thrasher)| or |Mission 2|) and |Godspeed (discard)|"
   },
   "M2L5 Shared Minimums": {
