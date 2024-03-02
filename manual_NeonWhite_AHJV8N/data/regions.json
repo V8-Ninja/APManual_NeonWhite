@@ -63,19 +63,16 @@
   
   
   "M3L1": {
-    "requires": "(|M3L1 (Guardian)| or |Mission 3|) and |Godspeed (discard)|"
+    "requires": "|M3L1 (Guardian)| or |Mission 3|"
   },
-  "M3L2 1": {
-    "requires": "(|M3L2 (Stomp)| or |Mission 3|) and |Stomp (main fire)|"
-  },
-  "M3L2 2": {
-    "requires": "(|M3L2 (Stomp)| or |Mission 3|) and |Stomp (discard)|"
+  "M3L2": {
+    "requires": "|M3L2 (Stomp)| or |Mission 3|"
   },
   "M3L3": {
     "requires": "|M3L3 (Jumper)| or |Mission 3|"
   },
   "M3L4": {
-    "requires": "(|M3L4 (Dash Tower)| or |Mission 3|) and |Elevate (discard)|"
+    "requires": "|M3L4 (Dash Tower)| or |Mission 3|"
   },
   "M3L5": {
     "requires": "|M3L5 (Descent)| or |Mission 3|"

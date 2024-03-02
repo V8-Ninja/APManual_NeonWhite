@@ -726,31 +726,32 @@
   {
     "name": "M3L1 (Guardian) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M3L1 (Guardian)| or |Mission 3|) and |Elevate (discard)|"
+    "region": "M3L1",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M3L1 (Guardian) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L1",
-    "requires": "|Katana|"
+    "requires": "|Katana| and |Godspeed (discard)|"
   },
   {
     "name": "M3L1 (Guardian) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L1",
-    "requires": "|Purify (main fire)|"
+    "requires": "|Purify (main fire)| and |Godspeed (discard)|"
   },
   {
     "name": "M3L1 (Guardian) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L1",
-    "requires": "|Purify (discard)| or (|Elevate (discard)| and (|Purify (main fire)| or (|Katana| and |Godspeed (main fire)|)))"
+    "requires": "|Godspeed (discard)| and (|Purify (discard)| or (|Elevate (discard)| and (|Katana| or |Purify (main fire)|)))"
   },
   {
     "name": "M3L1 (Guardian) - Ace Medal",
     "category": ["Medals", "Ace"],
     "region": "M3L1",
-    "requires": "|Elevate (discard)| and |Purify (discard)|"
+    "requires": "|Purify (discard)| and |Elevate (discard)| and |Godspeed (discard)|"
   },
   
   
@@ -758,28 +759,31 @@
   {
     "name": "M3L2 (Stomp) - Gift",
     "category": ["Gifts"],
-    "requires": "|M3L2 (Stomp)| or |Mission 3|"
+    "region": "M3L2"
   },
   {
     "name": "M3L2 (Stomp) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "region": "M3L2 1"
+    "region": "M3L2",
+    "requires": "|Stomp (main fire)|"
   },
   {
     "name": "M3L2 (Stomp) - Silver Medal",
     "category": ["Medals", "Silver"],
-    "region": "M3L2 1",
-    "requires": "|Katana|"
+    "region": "M3L2",
+    "requires": "|Katana| and |Stomp (main fire)|"
   },
   {
     "name": "M3L2 (Stomp) - Gold Medal",
     "category": ["Medals", "Gold"],
-    "region": "M3L2 2"
+    "region": "M3L2",
+    "requires": "|Stomp (discard)|"
   },
   {
     "name": "M3L2 (Stomp) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "region": "M3L2 2"
+    "region": "M3L2",
+    "requires": "|Stomp (discard)|"
   },
   
   
@@ -819,31 +823,32 @@
   {
     "name": "M3L4 (Dash Tower) - Gift",
     "category": ["Gifts"],
-    "region": "M3L4"
+    "region": "M3L4",
+    "requires": "|Elevate (discard)|"
   },
   {
     "name": "M3L4 (Dash Tower) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L4",
-    "requires": "|Godspeed (main fire)|"
+    "requires": "|Elevate (discard)| and |Godspeed (main fire)|"
   },
   {
     "name": "M3L4 (Dash Tower) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L4",
-    "requires": "|Godspeed (discard)|"
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M3L4 (Dash Tower) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L4",
-    "requires": "|Godspeed (discard)|"
+    "requires": "|Katana| and |Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M3L4 (Dash Tower) - Ace Medal",
     "category": ["Medals", "Ace"],
     "region": "M3L4",
-    "requires": "|Godspeed (discard)| and (|Stomp (main fire)| or |Stomp (discard)|)"
+    "requires": "|Elevate (discard)| and |Godspeed (discard)| and (|Stomp (main fire)| or |Stomp (discard)|)"
   },
   
   
