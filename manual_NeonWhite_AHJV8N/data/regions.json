@@ -61,5 +61,41 @@
   },
   "M2L10 Shared Minimums": {
     "requires": "(|M2L10 (Dancer)| or |Mission 2|) and |Elevate (discard)| and |Godspeed (discard)|"
+  },
+  
+  
+  
+  "M3L1 Shared Minimums": {
+    "requires": "(|M3L1 (Guardian)| or |Mission 3|) and |Godspeed (discard)|"
+  },
+  "M3L2 Shared Minimums 1": {
+    "requires": "(|M3L2 (Stomp)| or |Mission 3|) and |Stomp (main fire)|"
+  },
+  "M3L2 Shared Minimums 2": {
+    "requires": "(|M3L2 (Stomp)| or |Mission 3|) and |Stomp (discard)|"
+  },
+  "M3L3 Shared Minimums": {
+    "requires": "|M3L3 (Jumper)| or |Mission 3|"
+  },
+  "M3L4 Shared Minimums": {
+    "requires": "(|M3L4 (Dash Tower)| or |Mission 3|) and |Elevate (discard)|"
+  },
+  "M3L5 Shared Minimums": {
+    "requires": "|M3L5 (Descent)| or |Mission 3|"
+  },
+  "M3L6": {
+    "requires": "|M3L6 (Driller)| or |Mission 3|"
+  },
+  "M3L7": {
+    "requires": "|M3L7 (Canals)| or |Mission 3|"
+  },
+  "M3L8": {
+    "requires": "|M3L8 (Sprint)| or |Mission 3|"
+  },
+  "M3L9": {
+    "requires": "|M3L9 (Mountain)| or |Mission 3|"
+  },
+  "M3L10": {
+    "requires": "|M3L10 (Superkinetic)| or |Mission 3|"
   }
 }

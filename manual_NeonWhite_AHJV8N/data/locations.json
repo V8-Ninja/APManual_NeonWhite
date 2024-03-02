@@ -639,6 +639,334 @@
   
   
   {
+    "name": "M3L1 (Guardian) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M3L1 (Guardian)| or |Mission 3|) and |Elevate (discard)|"
+  },
+  {
+    "name": "M3L1 (Guardian) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L1 Shared Minimums",
+    "requires": "|Katana|"
+  },
+  {
+    "name": "M3L1 (Guardian) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L1 Shared Minimums",
+    "requires": "|Purify (main fire)|"
+  },
+  {
+    "name": "M3L1 (Guardian) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L1 Shared Minimums",
+    "requires": "|Purify (discard)| or (|Elevate (discard)| and (|Purify (main fire)| or (|Katana| and |Godspeed (main fire)|)))"
+  },
+  {
+    "name": "M3L1 (Guardian) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L1 Shared Minimums",
+    "requires": "|Elevate (discard)| and |Purify (discard)|"
+  },
+  
+  
+  
+  {
+    "name": "M3L2 (Stomp) - Gift",
+    "category": ["Gifts"],
+    "requires": "|M3L2 (Stomp)| or |Mission 3|"
+  },
+  {
+    "name": "M3L2 (Stomp) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L2 Shared Minimums 1"
+  },
+  {
+    "name": "M3L2 (Stomp) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L2 Shared Minimums 1",
+    "requires": "|Katana|"
+  },
+  {
+    "name": "M3L2 (Stomp) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L2 Shared Minimums 2"
+  },
+  {
+    "name": "M3L2 (Stomp) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L2 Shared Minimums 2"
+  },
+  
+  
+  
+  {
+    "name": "M3L3 (Jumper) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L3 Shared Minimums"
+  },
+  {
+    "name": "M3L3 (Jumper) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L3 Shared Minimums",
+    "requires": "|Katana|"
+  },
+  {
+    "name": "M3L3 (Jumper) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L3 Shared Minimums",
+    "requires": "|Katana| and |Elevate (discard)|"
+  },
+  {
+    "name": "M3L3 (Jumper) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L3 Shared Minimums",
+    "requires": "(|Elevate (main fire)| and |Stomp (discard)|) or |Stomp (main fire)|"
+  },
+  {
+    "name": "M3L3 (Jumper) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L3 Shared Minimums",
+    "requires": "(|Katana| and |Stomp (discard)|) or (|Elevate (discard)| and |Stomp (main fire)|)"
+  },
+  
+  
+  
+  {
+    "name": "M3L4 (Dash Tower) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L4 Shared Minimums"
+  },
+  {
+    "name": "M3L4 (Dash Tower) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L4 Shared Minimums",
+    "requires": "|Godspeed (main fire)|"
+  },
+  {
+    "name": "M3L4 (Dash Tower) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L4 Shared Minimums",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M3L4 (Dash Tower) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L4 Shared Minimums",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M3L4 (Dash Tower) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L4 Shared Minimums",
+    "requires": "|Godspeed (discard)| and (|Stomp (main fire)| or |Stomp (discard)|)"
+  },
+  
+  
+  
+  {
+    "name": "M3L5 (Descent) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L5 Shared Minimums",
+    "requires": "(|Godspeed (discard)| and (|Stomp (main fire)| or |Stomp (discard)|)) or (|Katana| and |Godspeed (main fire)| and |Stomp (main fire)|)"
+  },
+  {
+    "name": "M3L5 (Descent) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L5 Shared Minimums",
+    "requires": "|Katana| or |Stomp (discard)|"
+  },
+  {
+    "name": "M3L5 (Descent) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L5 Shared Minimums",
+    "requires": "|Katana| or |Stomp (discard)|"
+  },
+  {
+    "name": "M3L5 (Descent) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L5 Shared Minimums",
+    "requires": "|Katana| or |Stomp (discard)|"
+  },
+  {
+    "name": "M3L5 (Descent) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L5 Shared Minimums",
+    "requires": "|Stomp (main fire)| or (|Godspeed (discard)| and |Stomp (discard)|)"
+  },
+  
+  
+  
+  {
+    "name": "M3L6 (Driller) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L6"
+  },
+  {
+    "name": "M3L6 (Driller) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L6",
+    "requires": "|Stomp (main fire)| or (|Katana| and |Godspeed (discard)|)"
+  },
+  {
+    "name": "M3L6 (Driller) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L6",
+    "requires": "|Stomp (main fire)| or (|Katana| and |Godspeed (discard)|)"
+  },
+  {
+    "name": "M3L6 (Driller) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L6",
+    "requires": "|Godspeed (discard)| and (|Stomp (discard)| or (|Katana| and |Godspeed (main fire)|))"
+  },
+  {
+    "name": "M3L6 (Driller) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L6",
+    "requires": "|Godspeed (discard)| and |Stomp (discard)| and (|Katana| or |Godspeed (main fire)| or |Stomp (main fire)|)"
+  },
+  
+  
+  
+  {
+    "name": "M3L7 (Canals) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L7",
+    "requires": "|Elevate (discard)| or |Purify (discard)|"
+  },
+  {
+    "name": "M3L7 (Canals) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L7",
+    "requires": "|Katana| or |Purify (main fire)| or |Stomp (discard)|"
+  },
+  {
+    "name": "M3L7 (Canals) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L7",
+    "requires": "|Katana| or |Purify (main fire)| or |Stomp (discard)|"
+  },
+  {
+    "name": "M3L7 (Canals) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L7",
+    "requires": "|Katana| or |Purify (main fire)| or |Stomp (discard)|"
+  },
+  {
+    "name": "M3L7 (Canals) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L7",
+    "requires": "|Elevate (main fire)| or |Stomp (main fire)| or (|Katana| and (|Elevate (discard)| or |Purify (main fire)|)) or (|Purify (main fire)| and |Stomp (discard)|)"
+  },
+  
+  
+  
+  {
+    "name": "M3L8 (Sprint) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L8",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M3L8 (Sprint) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L8",
+    "requires": "|Katana| and |Elevate (discard)| and |Stomp (main fire)|"
+  },
+  {
+    "name": "M3L8 (Sprint) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L8",
+    "requires": "(|Elevate (discard)| and |Stomp (main fire)| and |Stomp (discard)|) or (|Elevate (main fire)| and |Godspeed (discard)|)"
+  },
+  {
+    "name": "M3L8 (Sprint) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L8",
+    "requires": "(|Elevate (discard)| and |Stomp (main fire)| and |Stomp (discard)|) or (|Elevate (main fire)| and |Godspeed (discard)|)"
+  },
+  {
+    "name": "M3L8 (Sprint) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L8",
+    "requires": "|Godspeed (discard)| and (|Godspeed (main fire)| or |Stomp (main fire)|)"
+  },
+  {
+    "name": "M3L8 (Sprint) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M3L8",
+    "requires": "|Elevate (discard)| and |Godspeed (discard)| and |Stomp (discard)|"
+  },
+  
+  
+  
+  {
+    "name": "M3L9 (Mountain) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L9",
+    "requires": "(|Katana| and |Purify (main fire)|) or |Purify (discard)| or |Stomp (main fire)| or |Stomp (discard)|"
+  },
+  {
+    "name": "M3L9 (Mountain) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L9",
+    "requires": "(|Purify (main fire)| and |Purify (discard)|) or |Stomp (main fire)|"
+  },
+  {
+    "name": "M3L9 (Mountain) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L9",
+    "requires": "|Stomp (discard)|"
+  },
+  {
+    "name": "M3L9 (Mountain) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L9",
+    "requires": "|Katana| and |Stomp (discard)|"
+  },
+  {
+    "name": "M3L9 (Mountain) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L9",
+    "requires": "|Stomp (discard)| and (|Purify (main fire)| or |Stomp (main fire)|)"
+  },
+  
+  
+  
+  {
+    "name": "M3L10 (Superkinetic) - Gift",
+    "category": ["Gifts"],
+    "region": "M3L10",
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
+  },
+  {
+    "name": "M3L10 (Superkinetic) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M3L10",
+    "requires": "|Godspeed (main fire)| or |Stomp (main fire)|"
+  },
+  {
+    "name": "M3L10 (Superkinetic) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M3L10",
+    "requires": "(|Elevate (discard)| and |Stomp (main fire)|) or (|Elevate (main fire)| and |Godspeed (discard)|)"
+  },
+  {
+    "name": "M3L10 (Superkinetic) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M3L10",
+    "requires": "(|Elevate (discard)| and |Godspeed (main fire)|) or (|Godspeed (discard)| and |Stomp (discard)|)"
+  },
+  {
+    "name": "M3L10 (Superkinetic) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M3L10",
+    "requires": "|Godspeed (main fire)| and |Godspeed (discard)|"
+  },
+  
+  
+  
+  {
     "name": "M4L3 (The Clocktower) - Beat Neon Green",
     "category": ["Goal"],
     "requires": "(|M4L3 (The Clocktower)| or |Mission 4|) and |Elevate (discard)| and (|Elevate (main fire)| or |Purify (main fire)|)",

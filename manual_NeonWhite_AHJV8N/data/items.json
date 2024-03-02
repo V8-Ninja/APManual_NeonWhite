@@ -19,6 +19,11 @@
     "category": ["Cards"],
     "progression": true
   },
+  {
+    "name": "Stomp (main fire)",
+    "category": ["Cards"],
+    "progression": true
+  },
   { 
     "name": "Purify (discard)", 
     "category": [ "Cards" ],
@@ -31,6 +36,11 @@
   },
   {
     "name": "Godspeed (discard)",
+    "category": ["Cards"],
+    "progression": true
+  },
+  {
+    "name": "Stomp (discard)",
     "category": ["Cards"],
     "progression": true
   },
@@ -147,6 +157,67 @@
   },
   {
     "name": "M2L10 (Dancer)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  
+  
+  
+  {
+    "name": "Mission 3",
+    "category": ["Missions"],
+    "progression": true
+  },
+  
+  
+  
+  {
+    "name": "M3L1 (Guardian)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L2 (Stomp)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L3 (Jumper)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L4 (Dash Tower)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L5 (Descent)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L6 (Driller)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L7 (Canals)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L8 (Sprint)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L9 (Mountain)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M3L10 (Superkinetic)",
     "category": ["Levels"],
     "progression": true
   },
