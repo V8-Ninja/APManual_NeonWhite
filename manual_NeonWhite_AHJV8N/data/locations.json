@@ -29,7 +29,7 @@
   {
     "name": "M1L2 (Pummel) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L2 (Pummel)| or |Mission 1 - Rebirth|"
+    "requires": "|M1L2 (Pummel)| or |Mission 1|"
   },
   {
     "name": "M1L2 (Pummel) - Bronze Medal",
@@ -54,7 +54,7 @@
   {
     "name": "M1L2 (Pummel) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L2 (Pummel)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
+    "requires": "(|M1L2 (Pummel)| or |Mission 1|) and |Purify (discard)|"
   },
   
   
@@ -62,7 +62,7 @@
   {
     "name": "M1L3 (Gunner) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L3 (Gunner)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
+    "requires": "(|M1L3 (Gunner)| or |Mission 1|) and |Purify (discard)|"
   },
   {
     "name": "M1L3 (Gunner) - Bronze Medal",
@@ -87,7 +87,7 @@
   {
     "name": "M1L3 (Gunner) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L3 (Gunner)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
+    "requires": "(|M1L3 (Gunner)| or |Mission 1|) and |Purify (discard)|"
   },
   
   
@@ -95,7 +95,7 @@
   {
     "name": "M1L4 (Cascade) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L4 (Cascade)| or |Mission 1 - Rebirth|) and |Elevate (discard)|"
+    "requires": "(|M1L4 (Cascade)| or |Mission 1|) and |Elevate (discard)|"
   },
   {
     "name": "M1L4 (Cascade) - Bronze Medal",
@@ -120,7 +120,7 @@
   {
     "name": "M1L4 (Cascade) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L4 (Cascade)| or |Mission 1 - Rebirth|) and |Elevate (main fire)| and |Elevate (discard)|"
+    "requires": "(|M1L4 (Cascade)| or |Mission 1|) and |Elevate (main fire)| and |Elevate (discard)|"
   },
   
   
@@ -128,7 +128,7 @@
   {
     "name": "M1L5 (Elevate) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L5 (Elevate)| or |Mission 1 - Rebirth|"
+    "requires": "|M1L5 (Elevate)| or |Mission 1|"
   },
   {
     "name": "M1L5 (Elevate) - Bronze Medal",
@@ -161,7 +161,7 @@
   {
     "name": "M1L6 (Bounce) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L6 (Bounce)| or |Mission 1 - Rebirth|) and |Elevate (discard)|"
+    "requires": "(|M1L6 (Bounce)| or |Mission 1|) and |Elevate (discard)|"
   },
   {
     "name": "M1L6 (Bounce) - Bronze Medal",
@@ -186,7 +186,7 @@
   {
     "name": "M1L6 (Bounce) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L6 (Bounce)| or |Mission 1 - Rebirth|) and |Elevate (main fire)| and |Elevate (discard)|"
+    "requires": "(|M1L6 (Bounce)| or |Mission 1|) and |Elevate (main fire)| and |Elevate (discard)|"
   },
   
   
@@ -194,7 +194,7 @@
   {
     "name": "M1L7 (Purify) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L7 (Purify)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
+    "requires": "(|M1L7 (Purify)| or |Mission 1|) and |Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Bronze Medal",
@@ -214,12 +214,12 @@
   {
     "name": "M1L7 (Purify) - Ace Medal",
     "category": ["Medals", "Ace"],
-    "requires": "(|M1L7 (Purify)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
+    "requires": "(|M1L7 (Purify)| or |Mission 1|) and |Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L7 (Purify)| or |Mission 1 - Rebirth|) and |Purify (main fire)| and |Purify (discard)|"
+    "requires": "(|M1L7 (Purify)| or |Mission 1|) and |Purify (main fire)| and |Purify (discard)|"
   },
   
   
@@ -227,7 +227,7 @@
   {
     "name": "M1L8 (Climb) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L8 (Climb)| or |Mission 1 - Rebirth|) and |Purify (discard)|"
+    "requires": "(|M1L8 (Climb)| or |Mission 1|) and |Purify (discard)|"
   },
   {
     "name": "M1L8 (Climb) - Bronze Medal",
@@ -260,12 +260,12 @@
   {
     "name": "M1L9 (Fasttrack) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L9 (Fasttrack)| or |Mission 1 - Rebirth|) and |Purify (discard)| and |Elevate (discard)|"
+    "requires": "(|M1L9 (Fasttrack)| or |Mission 1|) and |Purify (discard)| and |Elevate (discard)|"
   },
   {
     "name": "M1L9 (Fasttrack) - Bronze Medal",
     "category": ["Medals", "Bronze"],
-    "requires": "|M1L9 (Fasttrack)| or |Mission 1 - Rebirth|"
+    "requires": "|M1L9 (Fasttrack)| or |Mission 1|"
   },
   {
     "name": "M1L9 (Fasttrack) - Silver Medal",
@@ -285,7 +285,7 @@
   {
     "name": "M1L9 (Fasttrack) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L9 (Fasttrack)| or |Mission 1 - Rebirth|) and |Purify (main fire)| and |Purify (discard)|"
+    "requires": "(|M1L9 (Fasttrack)| or |Mission 1|) and |Purify (main fire)| and |Purify (discard)|"
   },
   
   
@@ -293,12 +293,355 @@
   {
     "name": "M1L10 (Glass Port) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L10 (Glass Port)| or |Mission 1 - Rebirth|) and (|Elevate (discard)| or |Purify (discard)|)"
+    "requires": "(|M1L10 (Glass Port)| or |Mission 1|) and (|Elevate (discard)| or |Purify (discard)|)"
   },
   {
-    "name": "M1L10 (Glass Port) - Beat The Level",
+    "name": "M1L10 (Glass Port) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M1L10 Shared Minimums"
+  },
+  {
+    "name": "M1L10 (Glass Port) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M1L10 Shared Minimums"
+  },
+  {
+    "name": "M1L10 (Glass Port) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M1L10 Shared Minimums"
+  },
+  {
+    "name": "M1L10 (Glass Port) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M1L10 Shared Minimums"
+  },
+  {
+    "name": "M1L10 (Glass Port) - Red Medal",
+    "category": ["Medals", "Red"],
+    "requires": "(|M1L10 (Glass Port)| or |Mission 1|) and |Purify (main fire)| and |Purify (discard)| and |Elevate (discard)|"
+  },
+  
+  
+  
+  {
+    "name": "M2L1 (Take Flight) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M2L1 (Take Flight)| or |Mission 2|) and |Elevate (discard)| and |Purify (discard)|"
+  },
+  {
+    "name": "M2L1 (Take Flight) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M2L1 Medal Minimum"
+  },
+  {
+    "name": "M2L1 (Take Flight) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L1 Medal Minimum"
+  },
+  {
+    "name": "M2L1 (Take Flight) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M2L1 Medal Minimum"
+  },
+  {
+    "name": "M2L1 (Take Flight) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L1 Medal Minimum"
+  },
+  {
+    "name": "M2L1 (Take Flight) - Red Medal",
+    "category": ["Medals", "Red"],
+    "requires": "(|M2L1 (Take Flight)| or |Mission 2|) and |Elevate (discard)| and |Purify (discard)| and (|Elevate (main fire)| or |Purify (main fire)|)"
+  },
+  
+  
+  
+  {
+    "name": "M2L2 (Godspeed) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M2L2 (Godspeed)| or |Mission 2|) and |Godspeed (discard)|"
+  },
+  {
+    "name": "M2L2 (Godspeed) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "requires": "(|M2L2 (Godspeed)| or |Mission 2|) and |Katana| and |Godspeed (main fire)|"
+  },
+  {
+    "name": "M2L2 (Godspeed) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L2 Medal Minimum"
+  },
+  {
+    "name": "M2L2 (Godspeed) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M2L2 Medal Minimum"
+  },
+  {
+    "name": "M2L2 (Godspeed) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L2 Medal Minimum"
+  },
+  {
+    "name": "M2L2 (Godspeed) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M2L2 Medal Minimum"
+  },
+  
+  
+  
+  {
+    "name": "M2L3 (Dasher) - Gift",
+    "category": ["Gifts"],
+    "requires": "|M2L3 (Dasher)| or |Mission 2|"
+  },
+  {
+    "name": "M2L3 (Dasher) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M2L3 Medal Minimum"
+  },
+  {
+    "name": "M2L3 (Dasher) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L3 Medal Minimum"
+  },
+  {
+    "name": "M2L3 (Dasher) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "requires": "(|M2L3 (Dasher)| or |Mission 2|) and |Godspeed (discard)|"
+  },
+  {
+    "name": "M2L3 (Dasher) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "requires": "(|M2L3 (Dasher)| or |Mission 2|) and |Godspeed (discard)| and (|Elevate (main fire)| or |Godspeed (main fire)|)"
+  },
+  {
+    "name": "M2L3 (Dasher) - Red Medal",
+    "category": ["Medals", "Red"],
+    "requires": "(|M2L3 (Dasher)| or |Mission 2|) and |Elevate (main fire)| and |Elevate (discard)| and |Godspeed (main fire)| and |Godspeed (discard)|"
+  },
+  
+  
+  
+  {
+    "name": "M2L4 (Thrasher) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M2L4 (Thrasher)| or |Mission 2|) and |Godspeed (discard)|"
+  },
+  {
+    "name": "M2L4 (Thrasher) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M2L4 Medal Minimum"
+  },
+  {
+    "name": "M2L4 (Thrasher) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L4 Medal Minimum"
+  },
+  {
+    "name": "M2L4 (Thrasher) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M2L4 Medal Minimum"
+  },
+  {
+    "name": "M2L4 (Thrasher) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L4 Medal Minimum"
+  },
+  {
+    "name": "M2L4 (Thrasher) - Red Medal",
+    "category": ["Medals", "Red"],
+    "requires": "(|M2L4 (Thrasher)| or |Mission 2|) and |Godspeed (main fire)| and |Godspeed (discard)|"
+  },
+  
+  
+  
+  {
+    "name": "M2L5 (Outstretched) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M2L5 (Outstretched)| or |Mission 2|) and |Elevate (discard)|"
+  },
+  {
+    "name": "M2L5 (Outstretched) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "requires": "(|M2L5 (Outstretched)| or |Mission 2|) and |Elevate (discard)|"
+  },
+  {
+    "name": "M2L5 (Outstretched) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "requires": "(|M2L5 (Outstretched)| or |Mission 2|) and |Elevate (discard)| and |Godspeed (main fire)|"
+  },
+  {
+    "name": "M2L5 (Outstretched) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "requires": "(|M2L5 (Outstretched)| or |Mission 2|) and |Elevate (discard)| and |Godspeed (discard)|"
+  },
+  {
+    "name": "M2L5 (Outstretched) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L5 Shared Minimums"
+  },
+  {
+    "name": "M2L5 (Outstretched) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M2L5 Shared Minimums"
+  },
+
+
+
+  {
+    "name": "M2L6 (Smackdown) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M2L6 (Smackdown)| or |Mission 2|) and |Elevate (discard)|"
+  },
+  {
+    "name": "M2L6 (Smackdown) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M2L6 Shared Minimums 1"
+  },
+  {
+    "name": "M2L6 (Smackdown) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L6 Shared Minimums 1"
+  },
+  {
+    "name": "M2L6 (Smackdown) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M2L6 Shared Minimums 1"
+  },
+  {
+    "name": "M2L6 (Smackdown) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L6 Shared Minimums 2"
+  },
+  {
+    "name": "M2L6 (Smackdown) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M2L6 Shared Minimums 2"
+  },
+
+
+
+  {
+    "name": "M2L7 (Catwalk) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M2L7 (Catwalk)| or |Mission 2|) and |Godspeed (discard)|"
+  },
+  {
+    "name": "M2L7 (Catwalk) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M2L7 Shared Minimums"
+  },
+  {
+    "name": "M2L7 (Catwalk) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L7 Shared Minimums"
+  },
+  {
+    "name": "M2L7 (Catwalk) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M2L7 Shared Minimums"
+  },
+  {
+    "name": "M2L7 (Catwalk) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L7 Shared Minimums"
+  },
+  
+  
+  
+  {
+    "name": "M2L8 (Fastlane) - Gift",
+    "category": ["Gifts"],
+    "requires": "|M2L8 (Fastlane)| or |Mission 2|"
+  },
+  {
+    "name": "M2L8 (Fastlane) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M2L8 Shared Minimums"
+  },
+  {
+    "name": "M2L8 (Fastlane) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L8 Shared Minimums"
+  },
+  {
+    "name": "M2L8 (Fastlane) - Gold Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L8 Shared Minimums"
+  },
+  {
+    "name": "M2L8 (Fastlane) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L8 Shared Minimums"
+  },
+  
+  
+  
+  {
+    "name": "M2L9 (Distinguish) - Gift",
+    "category": ["Gifts"],
+    "requires": "|Katana| or |Godspeed (main fire)|",
+    "region": "M2L9 Shared Minimums"
+  },
+  {
+    "name": "M2L9 (Distinguish) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "requires": "|Katana|",
+    "region": "M2L9 Shared Minimums"
+  },
+  {
+    "name": "M2L9 (Distinguish) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "requires": "|Katana|",
+    "region": "M2L9 Shared Minimums"
+  },
+  {
+    "name": "M2L9 (Distinguish) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "requires": "|Katana|",
+    "region": "M2L9 Shared Minimums"
+  },
+  {
+    "name": "M2L9 (Distinguish) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "requires": "(|Katana| and |Elevate (main fire)|) or |Godspeed (main fire)|",
+    "region": "M2L9 Shared Minimums"
+  },
+  
+  
+  
+  {
+    "name": "M2L10 (Dancer) - Gift",
+    "category": ["Gifts"],
+    "requires": "(|M2L10 (Dancer)| or |Mission 2|) and |Godspeed (discard)| and (|Katana| or |Godspeed (main fire)|)"
+  },
+  {
+    "name": "M2L10 (Dancer) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M2L10 Shared Minimums"
+  },
+  {
+    "name": "M2L10 (Dancer) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M2L10 Shared Minimums"
+  },
+  {
+    "name": "M2L10 (Dancer) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M2L10 Shared Minimums"
+  },
+  {
+    "name": "M2L10 (Dancer) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M2L10 Shared Minimums"
+  },
+  
+  
+  
+  {
+    "name": "M4L3 (The Clocktower) - Beat Neon Green",
     "category": ["Goal"],
-    "requires": "(|M1L10 (Glass Port)| or |Mission 1 - Rebirth|) and ((|Katana| and |Elevate (discard)|) or |Purify (discard)|)",
+    "requires": "(|M4L3 (The Clocktower)| or |Mission 4|) and |Elevate (discard)| and (|Elevate (main fire)| or |Purify (main fire)|)",
     "victory": true
   }
 ]

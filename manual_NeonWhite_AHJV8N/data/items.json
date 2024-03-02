@@ -14,6 +14,11 @@
     "category": [ "Cards" ],
     "progression": true 
   },
+  {
+    "name": "Godspeed (main fire)",
+    "category": ["Cards"],
+    "progression": true
+  },
   { 
     "name": "Purify (discard)", 
     "category": [ "Cards" ],
@@ -24,11 +29,16 @@
     "category": [ "Cards" ],
     "progression": true 
   },
+  {
+    "name": "Godspeed (discard)",
+    "category": ["Cards"],
+    "progression": true
+  },
   
   
   
   {
-    "name": "Mission 1 - Rebirth",
+    "name": "Mission 1",
     "category": ["Missions"],
     "progression": true
   },
@@ -78,6 +88,82 @@
   {
     "name": "M1L10 (Glass Port)",
     "category": [ "Levels" ],
+    "progression": true
+  },
+  
+  
+  {
+    "name": "Mission 2",
+    "category": ["Missions"],
+    "progression": true
+  },
+  
+  
+  
+  {
+    "name": "M2L1 (Take Flight)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L2 (Godspeed)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L3 (Dasher)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L4 (Thrasher)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L5 (Outstretched)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L6 (Smackdown)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L7 (Catwalk)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L8 (Fastlane)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L9 (Distinguish)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M2L10 (Dancer)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  
+  
+  
+  {
+    "name": "Mission 4",
+    "category": ["Missions"],
+    "progression": true
+  },
+  
+  
+  
+  {
+    "name": "M4L3 (The Clocktower)",
+    "category": ["Levels"],
     "progression": true
   }
 ]
