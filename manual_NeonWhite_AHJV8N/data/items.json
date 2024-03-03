@@ -48,6 +48,45 @@
   
   
   {
+    "name": "Neon Red Insight Level",
+    "category": ["Insight Levels"],
+    "progression": true,
+    "count": 19
+  },
+  {
+    "name": "Neon Violet Insight Level",
+    "category": ["Insight Levels"],
+    "progression": true,
+    "count": 19
+  },
+  {
+    "name": "Neon Yellow Insight Level",
+    "category": ["Insight Levels"],
+    "progression": true,
+    "count": 14
+  },
+  {
+    "name": "Mikey Insight Level",
+    "category": ["Insight Levels"],
+    "progression": false,
+    "count": 14
+  },
+  {
+    "name": "Raz Insight Level",
+    "category": ["Insight Levels"],
+    "progression": false,
+    "count": 14
+  },
+  {
+    "name": "Neon Green Insight Level",
+    "category": ["Insight Levels"],
+    "progression": false,
+    "count": 4
+  },
+  
+  
+  
+  {
     "name": "Mission 1",
     "category": ["Missions"],
     "progression": true

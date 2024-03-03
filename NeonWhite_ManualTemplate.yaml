@@ -35,6 +35,12 @@ Manual_NeonWhite_AHJV8N:
     true: 0
     false: 1
     
+  # Are the sidequest unlocks included in the generated location list?
+  # They require Insight Levels, which are also added to the item list.
+  sidequest_unlocks:
+    true: 1
+    false: 0
+    
   # Medals - Are the following medals checks? (Bronze enabled by default)
   silver_medals:
     true: 1
@@ -43,8 +49,8 @@ Manual_NeonWhite_AHJV8N:
     true: 1
     false: 0
   ace_medals:
-    true: 1
-    false: 0
+    true: 0
+    false: 1
   red_medals:
     true: 0
     false: 1

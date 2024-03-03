@@ -1135,5 +1135,134 @@
     "category": ["Goal"],
     "requires": "(|M4L3 (The Clocktower)| or |Mission 4|) and |Elevate (discard)| and (|Elevate (main fire)| or |Purify (main fire)|)",
     "victory": true
+  },
+  
+  
+  
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 2)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:2|"
+  },
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 4)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:4|"
+  },
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 6)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:6|"
+  },
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 8)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:8|"
+  },
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 11)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:11|"
+  },
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 13)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:13|"
+  },
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 15)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:15|"
+  },
+  {
+    "name": "Neon Red Sidequest Unlock (Lvl 18)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Red Insight Level:18|"
+  },
+  
+  
+  
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 2)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:2|"
+  },
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 4)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:4|"
+  },
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 6)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:6|"
+  },
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 8)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:8|"
+  },
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 11)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:11|"
+  },
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 13)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:13|"
+  },
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 15)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:15|"
+  },
+  {
+    "name": "Neon Violet Sidequest Unlock (Lvl 17)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Violet Insight Level:17|"
+  },
+  
+  
+  
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 2)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:2|"
+  },
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 4)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:4|"
+  },
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 6)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:6|"
+  },
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 9)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:9|"
+  },
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 10)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:10|"
+  },
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 11)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:11|"
+  },
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 12)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:12|"
+  },
+  {
+    "name": "Neon Yellow Sidequest Unlock (Lvl 13)",
+    "category": ["Sidequest Unlocks"],
+    "requires": "|Neon Yellow Insight Level:13|"
   }
 ]

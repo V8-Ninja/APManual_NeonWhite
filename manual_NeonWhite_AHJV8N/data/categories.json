@@ -21,5 +21,8 @@
   "Red": {
     "yaml_option": ["red_medals"],
     "hidden": true
+  },
+  "Sidequest Unlocks": {
+    "yaml_option": ["sidequest_unlocks"]
   }
 }
