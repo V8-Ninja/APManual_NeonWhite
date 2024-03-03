@@ -736,7 +736,7 @@
     "name": "M3L1 (Guardian) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L1",
-    "requires": "|Katana| and |Godspeed (discard)|"
+    "requires": "(|Katana| or |Purify (main fire)|) and |Godspeed (discard)|"
   },
   {
     "name": "M3L1 (Guardian) - Silver Medal",
@@ -768,13 +768,13 @@
     "name": "M3L2 (Stomp) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L2",
-    "requires": "|Stomp (main fire)|"
+    "requires": "|Stomp (main fire)| or |Stomp (discard)|"
   },
   {
     "name": "M3L2 (Stomp) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L2",
-    "requires": "|Katana| and |Stomp (main fire)|"
+    "requires": "(|Katana| and |Stomp (main fire)|) or |Stomp (discard)|"
   },
   {
     "name": "M3L2 (Stomp) - Gold Medal",
@@ -800,19 +800,19 @@
     "name": "M3L3 (Jumper) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L3",
-    "requires": "|Katana|"
+    "requires": "|Katana| or |Stomp (main fire)| or ((|Elevate (main fire)| or |Elevate (discard)|) and |Stomp (discard)|)"
   },
   {
     "name": "M3L3 (Jumper) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L3",
-    "requires": "|Katana| and |Elevate (discard)|"
+    "requires": "(|Katana| and (|Elevate (discard)| or |Stomp (discard)|)) or |Stomp (main fire)|"
   },
   {
     "name": "M3L3 (Jumper) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L3",
-    "requires": "(|Elevate (main fire)| and |Stomp (discard)|) or |Stomp (main fire)|"
+    "requires": "((|Katana| or |Elevate (main fire)|) and |Stomp (discard)|) or |Stomp (main fire)|"
   },
   {
     "name": "M3L3 (Jumper) - Ace Medal",
@@ -845,7 +845,7 @@
     "name": "M3L4 (Dash Tower) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L4",
-    "requires": "|Katana| and |Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "(|Katana| or |Stomp (main fire)| or |Stomp (discard)|) and |Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M3L4 (Dash Tower) - Ace Medal",
@@ -866,19 +866,19 @@
     "name": "M3L5 (Descent) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L5",
-    "requires": "|Katana| or |Stomp (discard)|"
+    "requires": "|Katana| or |Stomp (discard)| or |Stomp (main fire)|"
   },
   {
     "name": "M3L5 (Descent) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L5",
-    "requires": "|Katana| or |Stomp (discard)|"
+    "requires": "|Katana| or |Stomp (discard)| or |Stomp (main fire)|"
   },
   {
     "name": "M3L5 (Descent) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L5",
-    "requires": "|Katana| or |Stomp (discard)|"
+    "requires": "|Katana| or |Stomp (discard)| or |Stomp (main fire)|"
   },
   {
     "name": "M3L5 (Descent) - Ace Medal",
@@ -898,13 +898,13 @@
     "name": "M3L6 (Driller) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L6",
-    "requires": "|Stomp (main fire)| or (|Katana| and |Godspeed (discard)|)"
+    "requires": "|Stomp (main fire)| or ((|Katana| or |Stomp (discard)|) and |Godspeed (discard)|)"
   },
   {
     "name": "M3L6 (Driller) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L6",
-    "requires": "|Stomp (main fire)| or (|Katana| and |Godspeed (discard)|)"
+    "requires": "|Stomp (main fire)| or ((|Katana| or |Stomp (discard)|) and |Godspeed (discard)|)"
   },
   {
     "name": "M3L6 (Driller) - Gold Medal",
@@ -931,19 +931,19 @@
     "name": "M3L7 (Canals) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L7",
-    "requires": "|Katana| or |Purify (main fire)| or |Stomp (discard)|"
+    "requires": "|Katana| or |Purify (main fire)| or |Elevate (main fire)| or |Stomp (main fire)| or |Stomp (discard)|"
   },
   {
     "name": "M3L7 (Canals) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L7",
-    "requires": "|Katana| or |Purify (main fire)| or |Stomp (discard)|"
+    "requires": "|Katana| or |Purify (main fire)| or |Elevate (main fire)| or |Stomp (main fire)| or |Stomp (discard)|"
   },
   {
     "name": "M3L7 (Canals) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L7",
-    "requires": "|Katana| or |Purify (main fire)| or |Stomp (discard)|"
+    "requires": "|Katana| or |Purify (main fire)| or |Elevate (main fire)| or |Stomp (main fire)| or |Stomp (discard)|"
   },
   {
     "name": "M3L7 (Canals) - Ace Medal",
@@ -964,19 +964,19 @@
     "name": "M3L8 (Sprint) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L8",
-    "requires": "|Katana| and |Elevate (discard)| and |Stomp (main fire)|"
+    "requires": "(|Elevate (discard)| and |Stomp (main fire)| and (|Katana| or |Stomp (discard)|)) or (|Elevate (main fire)| and |Godspeed (discard)|)"
   },
   {
     "name": "M3L8 (Sprint) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L8",
-    "requires": "(|Elevate (discard)| and |Stomp (main fire)| and |Stomp (discard)|) or (|Elevate (main fire)| and |Godspeed (discard)|)"
+    "requires": "(|Elevate (discard)| and |Stomp (main fire)| and (|Katana| or |Stomp (discard)|)) or (|Elevate (main fire)| and |Godspeed (discard)|)"
   },
   {
     "name": "M3L8 (Sprint) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L8",
-    "requires": "(|Elevate (discard)| and |Stomp (main fire)| and |Stomp (discard)|) or (|Elevate (main fire)| and |Godspeed (discard)|)"
+    "requires": "(|Elevate (discard)| and |Stomp (main fire)| and |Stomp (discard)|) or (|Godspeed (discard)| and (|Elevate (main fire)| or |Godspeed (main fire)| or |Stomp (main fire)|)"
   },
   {
     "name": "M3L8 (Sprint) - Ace Medal",
@@ -1003,7 +1003,7 @@
     "name": "M3L9 (Mountain) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L9",
-    "requires": "(|Purify (main fire)| and |Purify (discard)|) or |Stomp (main fire)|"
+    "requires": "(|Purify (main fire)| and |Purify (discard)|) or |Stomp (main fire)| or |Stomp (discard)|"
   },
   {
     "name": "M3L9 (Mountain) - Silver Medal",
@@ -1015,7 +1015,7 @@
     "name": "M3L9 (Mountain) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L9",
-    "requires": "|Katana| and |Stomp (discard)|"
+    "requires": "|Stomp (discard)| and (|Katana| or |Purify (main fire)| or |Purify (discard)|)"
   },
   {
     "name": "M3L9 (Mountain) - Ace Medal",
@@ -1036,19 +1036,19 @@
     "name": "M3L10 (Superkinetic) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M3L10",
-    "requires": "|Godspeed (main fire)| or |Stomp (main fire)|"
+    "requires": "|Godspeed (main fire)| or |Stomp (main fire)| or (|Elevate (discard)| and (|Godspeed (main fire)| or |Stomp (main fire)|)) or (|Godspeed (discard)| and (|Elevate (main fire)| or |Godspeed (main fire)| or |Stomp (discard)|))"
   },
   {
     "name": "M3L10 (Superkinetic) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L10",
-    "requires": "(|Elevate (discard)| and |Stomp (main fire)|) or (|Elevate (main fire)| and |Godspeed (discard)|)"
+    "requires": "(|Elevate (discard)| and (|Godspeed (main fire)| or |Stomp (main fire)|)) or (|Godspeed (discard)| and (|Elevate (main fire)| or |Godspeed (main fire)| or |Stomp (discard)|))"
   },
   {
     "name": "M3L10 (Superkinetic) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M3L10",
-    "requires": "(|Elevate (discard)| and |Godspeed (main fire)|) or (|Godspeed (discard)| and |Stomp (discard)|)"
+    "requires": "((|Elevate (discard)| or |Godspeed (discard)|) and |Godspeed (main fire)|) or (|Godspeed (discard)| and (|Godspeed (main fire)| or |Stomp (discard)|))"
   },
   {
     "name": "M3L10 (Superkinetic) - Ace Medal",
