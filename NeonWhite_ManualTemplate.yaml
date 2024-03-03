@@ -58,10 +58,6 @@ Manual_NeonWhite_AHJV8N:
   exclude_locations:
     []
 
-  start_inventory:
-    # Start with these items.
-    []
-
   local_items:
     # Forces these items to be in their native world.
     []
