@@ -91,5 +91,14 @@
   },
   "M3L10": {
     "requires": "|M3L10 (Superkinetic)| or |Mission 3|"
+  },
+  
+  
+  
+  "M4L1": {
+    "requires": "|M4L1 (Arrival)| or |Mission 4|"
+  },
+  "M4L2": {
+    "requires": "|M4L2 (Forgotten City)| or |Mission 4|"
   }
 }

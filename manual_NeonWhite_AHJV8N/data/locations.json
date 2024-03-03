@@ -54,7 +54,8 @@
   {
     "name": "M1L2 (Pummel) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L2 (Pummel)| or |Mission 1|) and |Purify (discard)|"
+    "region": "M1L2",
+    "requires": "|Purify (discard)|"
   },
   
   
@@ -62,7 +63,8 @@
   {
     "name": "M1L3 (Gunner) - Gift",
     "category": ["Gifts"],
-    "requires": "(|M1L3 (Gunner)| or |Mission 1|) and |Purify (discard)|"
+    "region": "M1L3",
+    "requires": "|Purify (discard)|"
   },
   {
     "name": "M1L3 (Gunner) - Bronze Medal",
@@ -87,7 +89,8 @@
   {
     "name": "M1L3 (Gunner) - Red Medal",
     "category": ["Medals", "Red"],
-    "requires": "(|M1L3 (Gunner)| or |Mission 1|) and |Purify (discard)|"
+    "region": "M1L3",
+    "requires": "|Purify (discard)|"
   },
   
   
@@ -301,19 +304,19 @@
     "name": "M1L9 (Fasttrack) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M1L9",
-    "requires": "|Katana|"
+    "requires": "|Katana| or (|Purify (main fire)| and |Purify (discard)|)"
   },
   {
     "name": "M1L9 (Fasttrack) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M1L9",
-    "requires": "|Katana|"
+    "requires": "|Katana| or (|Purify (main fire)| and |Purify (discard)|)"
   },
   {
     "name": "M1L9 (Fasttrack) - Ace Medal",
     "category": ["Medals", "Ace"],
     "region": "M1L9",
-    "requires": "|Katana|"
+    "requires": "|Katana| or (|Purify (main fire)| and |Purify (discard)|)"
   },
   {
     "name": "M1L9 (Fasttrack) - Red Medal",
@@ -412,7 +415,7 @@
     "name": "M2L2 (Godspeed) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M2L2",
-    "requires": "|Katana| and |Godspeed (main fire)|"
+    "requires": "(|Katana| and |Godspeed (main fire)|) or |Godspeed (discard)|"
   },
   {
     "name": "M2L2 (Godspeed) - Silver Medal",
@@ -450,13 +453,13 @@
     "name": "M2L3 (Dasher) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M2L3",
-    "requires": "|Katana| or |Godspeed (main fire)|"
+    "requires": "|Katana| or |Godspeed (main fire)| or |Godspeed (discard)|"
   },
   {
     "name": "M2L3 (Dasher) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M2L3",
-    "requires": "|Katana| or |Godspeed (main fire)|"
+    "requires": "|Katana| or |Godspeed (main fire)| or |Godspeed (discard)|"
   },
   {
     "name": "M2L3 (Dasher) - Gold Medal",
@@ -534,7 +537,7 @@
     "name": "M2L5 (Outstretched) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M2L5",
-    "requires": "|Elevate (discard)| and |Godspeed (main fire)|"
+    "requires": "|Elevate (discard)| and (|Godspeed (main fire)| or |Godspeed (discard)|)"
   },
   {
     "name": "M2L5 (Outstretched) - Gold Medal",
@@ -567,19 +570,19 @@
     "name": "M2L6 (Smackdown) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M2L6",
-    "requires": "|Elevate (discard)| and (|Katana| or |Elevate (main fire)| or |Godspeed (main fire)|)"
+    "requires": "|Elevate (discard)| and (|Katana| or |Elevate (main fire)| or |Godspeed (main fire)| or |Godspeed (discard)|)"
   },
   {
     "name": "M2L6 (Smackdown) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M2L6",
-    "requires": "|Elevate (discard)| and (|Katana| or |Elevate (main fire)| or |Godspeed (main fire)|)"
+    "requires": "|Elevate (discard)| and (|Katana| or |Elevate (main fire)| or |Godspeed (main fire)| or |Godspeed (discard)|)"
   },
   {
     "name": "M2L6 (Smackdown) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M2L6",
-    "requires": "|Elevate (discard)| and (|Katana| or |Elevate (main fire)| or |Godspeed (main fire)|)"
+    "requires": "|Elevate (discard)| and (|Katana| or |Elevate (main fire)| or |Godspeed (main fire)| or |Godspeed (discard)|)"
   },
   {
     "name": "M2L6 (Smackdown) - Ace Medal",
@@ -667,19 +670,19 @@
     "name": "M2L9 (Distinguish) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M2L9",
-    "requires": "|Katana| and |Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "(|Katana| or |Godspeed (main fire)|) and |Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M2L9 (Distinguish) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M2L9",
-    "requires": "|Katana| and |Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "(|Katana| or |Godspeed (discard)|) and |Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M2L9 (Distinguish) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M2L9",
-    "requires": "|Katana| and |Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "(|Katana| or |Godspeed (discard)|) and |Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M2L9 (Distinguish) - Ace Medal",
@@ -1052,6 +1055,77 @@
     "category": ["Medals", "Ace"],
     "region": "M3L10",
     "requires": "|Godspeed (main fire)| and |Godspeed (discard)|"
+  },
+  
+  
+  {
+    "name": "M4L1 (Arrival) - Gift",
+    "category": ["Gifts"],
+    "region": "M4L1",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M4L1 (Arrival) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M4L1",
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
+  },
+  {
+    "name": "M4L1 (Arrival) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M4L1",
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
+  },
+  {
+    "name": "M4L1 (Arrival) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M4L1",
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
+  },
+  {
+    "name": "M4L1 (Arrival) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M4L1",
+    "requires": "|Elevate (discard)| and |Godspeed (discard)| and (|Godspeed (main fire)| or |Stomp (main fire)|)"
+  },
+  {
+    "name": "M4L1 (Arrival) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M4L1",
+    "requires": "|Elevate (discard)| and |Godspeed (main fire)| and |Godspeed (discard)|"
+  },
+  
+  
+  
+  {
+    "name": "M4L2 (Forgotten City) - Gift",
+    "category": ["Gifts"],
+    "region": "M4L2",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M4L2 (Forgotten City) - Bronze Medal",
+    "category": ["Medals", "Bronze"],
+    "region": "M4L2",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M4L2 (Forgotten City) - Silver Medal",
+    "category": ["Medals", "Silver"],
+    "region": "M4L2",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M4L2 (Forgotten City) - Gold Medal",
+    "category": ["Medals", "Gold"],
+    "region": "M4L2",
+    "requires": "|Godspeed (discard)|"
+  },
+  {
+    "name": "M4L2 (Forgotten City) - Ace Medal",
+    "category": ["Medals", "Ace"],
+    "region": "M4L2",
+    "requires": "|Godspeed (discard)|"
   },
   
   

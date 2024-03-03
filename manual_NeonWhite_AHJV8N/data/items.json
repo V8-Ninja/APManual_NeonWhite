@@ -233,6 +233,16 @@
   
   
   {
+    "name": "M4L1 (Arrival)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
+    "name": "M4L2 (Forgotten City)",
+    "category": ["Levels"],
+    "progression": true
+  },
+  {
     "name": "M4L3 (The Clocktower)",
     "category": ["Levels"],
     "progression": true
