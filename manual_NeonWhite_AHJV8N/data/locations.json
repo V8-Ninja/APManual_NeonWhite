@@ -766,7 +766,7 @@
     "name": "M3L1 (Guardian) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M3L1",
-    "requires": "|Godspeed (discard)| and ((|Godspeed main fire| and (|Katana| or |Elevate (main fire)|)) or (|Katana| and |Elevate (discard)|) or |Purify (main fire)| or |Purify (discard)|)"
+    "requires": "|Godspeed (discard)| and ((|Godspeed (main fire)| and (|Katana| or |Elevate (main fire)|)) or (|Katana| and |Elevate (discard)|) or |Purify (main fire)| or |Purify (discard)|)"
   },
   {
     "name": "M3L1 (Guardian) - Gold Medal",
