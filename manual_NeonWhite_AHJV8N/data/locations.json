@@ -221,19 +221,19 @@
     "name": "M1L7 (Purify) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M1L7",
-    "requires": "|Purify (main fire)|"
+    "requires": "|Purify (main fire)| or |Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M1L7",
-    "requires": "|Purify (main fire)|"
+    "requires": "|Purify (main fire)| or |Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M1L7",
-    "requires": "|Purify (main fire)|"
+    "requires": "|Purify (main fire)| or |Purify (discard)|"
   },
   {
     "name": "M1L7 (Purify) - Ace Medal",
@@ -304,25 +304,25 @@
     "name": "M1L9 (Fasttrack) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M1L9",
-    "requires": "|Katana| or (|Purify (main fire)| and |Purify (discard)|)"
+    "requires": "|Katana| or |Purify (main fire)|"
   },
   {
     "name": "M1L9 (Fasttrack) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M1L9",
-    "requires": "|Katana| or (|Purify (main fire)| and |Purify (discard)|)"
+    "requires": "|Katana| or |Purify (main fire)|"
   },
   {
     "name": "M1L9 (Fasttrack) - Ace Medal",
     "category": ["Medals", "Ace"],
     "region": "M1L9",
-    "requires": "|Katana| or (|Purify (main fire)| and |Purify (discard)|)"
+    "requires": "|Katana| or |Purify (main fire)|"
   },
   {
     "name": "M1L9 (Fasttrack) - Red Medal",
     "category": ["Medals", "Red"],
     "region": "M1L9",
-    "requires": "|Purify (main fire)| and |Purify (discard)|"
+    "requires": "|Purify (main fire)| and (|Purify (discard)| or |Elevate (discard)|)"
   },
   
   
@@ -337,25 +337,25 @@
     "name": "M1L10 (Glass Port) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M1L10",
-    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
+    "requires": "((|Katana| or |Elevate (main fire)| or |Purify (main fire)|) and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M1L10",
-    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
+    "requires": "((|Katana| or |Elevate (main fire)| or |Purify (main fire)|) and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M1L10",
-    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
+    "requires": "((|Katana| or |Elevate (main fire)| or |Purify (main fire)|) and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Ace Medal",
     "category": ["Medals", "Ace"],
     "region": "M1L10",
-    "requires": "(|Katana| and |Elevate (discard)|) or |Purify (discard)|"
+    "requires": "((|Katana| or |Purify (main fire)|) and |Elevate (discard)|) or |Purify (discard)|"
   },
   {
     "name": "M1L10 (Glass Port) - Red Medal",
