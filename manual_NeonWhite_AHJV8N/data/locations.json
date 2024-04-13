@@ -629,6 +629,12 @@
     "region": "M2L7",
     "requires": "|Godspeed (discard)|"
   },
+  {
+    "name": "M2L7 (Catwalk) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M2L7",
+    "requires": "|Godspeed (main fire)| and |Godspeed (discard)|"
+  },
   
   
   
@@ -657,6 +663,12 @@
     "category": ["Medals", "Ace"],
     "region": "M2L8"
   },
+  {
+    "name": "M2L8 (Fastlane) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M2L8",
+    "requires": "|Godspeed (discard)|"
+  },
   
   
   
@@ -664,31 +676,37 @@
     "name": "M2L9 (Distinguish) - Gift",
     "category": ["Gifts"],
     "region": "M2L9",
-    "requires": "|Elevate (discard)| and |Godspeed (discard)| and (|Katana| or |Godspeed (main fire)|)"
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M2L9 (Distinguish) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M2L9",
-    "requires": "(|Katana| or |Godspeed (main fire)|) and |Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M2L9 (Distinguish) - Silver Medal",
     "category": ["Medals", "Silver"],
     "region": "M2L9",
-    "requires": "(|Katana| or |Godspeed (discard)|) and |Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M2L9 (Distinguish) - Gold Medal",
     "category": ["Medals", "Gold"],
     "region": "M2L9",
-    "requires": "(|Katana| or |Godspeed (discard)|) and |Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
   },
   {
     "name": "M2L9 (Distinguish) - Ace Medal",
     "category": ["Medals", "Ace"],
     "region": "M2L9",
-    "requires": "|Elevate (discard)| and |Godspeed (discard)| and ((|Katana| and |Elevate (main fire)|) or |Godspeed (main fire)|)"
+    "requires": "|Elevate (discard)| and |Godspeed (discard)| and (|Elevate (main fire)| or |Godspeed (main fire)|)"
+  },
+  {
+    "name": "M2L9 (Distinguish) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M2L9",
+    "requires": "|Elevate (discard)| and |Godspeed (main fire)| and |Godspeed (discard)|"
   },
   
   
@@ -697,13 +715,13 @@
     "name": "M2L10 (Dancer) - Gift",
     "category": ["Gifts"],
     "region": "M2L10",
-    "requires": "|Godspeed (discard)| and (|Katana| or |Godspeed (main fire)|)"
+    "requires": "|Godspeed (discard)|"
   },
   {
     "name": "M2L10 (Dancer) - Bronze Medal",
     "category": ["Medals", "Bronze"],
     "region": "M2L10",
-    "requires": "|Elevate (discard)| and |Godspeed (discard)|"
+    "requires": "|Elevate (discard)| and (|Godspeed (main fire)| or |Godspeed (discard)|)"
   },
   {
     "name": "M2L10 (Dancer) - Silver Medal",
@@ -722,6 +740,12 @@
     "category": ["Medals", "Ace"],
     "region": "M2L10",
     "requires": "|Elevate (discard)| and |Godspeed (discard)|"
+  },
+  {
+    "name": "M2L10 (Dancer) - Red Medal",
+    "category": ["Medals", "Red"],
+    "region": "M2L10",
+    "requires": "|Elevate (discard)| and |Godspeed (main fire)| and |Godspeed (discard)|"
   },
   
   
