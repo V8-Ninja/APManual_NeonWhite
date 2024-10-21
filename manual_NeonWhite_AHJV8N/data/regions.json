@@ -1,104 +1,107 @@
 {
   "M1L2": {
-    "requires": "|M1L2 (Pummel)| or |Mission 1|"
+    "requires": "(|M1L2 (Pummel)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L3": {
-    "requires": "|M1L3 (Gunner)| or |Mission 1|"
+    "requires": "(|M1L3 (Gunner)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L4": {
-    "requires": "|M1L4 (Cascade)| or |Mission 1|"
+    "requires": "(|M1L4 (Cascade)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L5": {
-    "requires": "|M1L5 (Elevate)| or |Mission 1|"
+    "requires": "(|M1L5 (Elevate)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L6": {
-    "requires": "|M1L6 (Bounce)| or |Mission 1|"
+    "requires": "(|M1L6 (Bounce)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L7": {
-    "requires": "|M1L7 (Purify)| or |Mission 1|"
+    "requires": "(|M1L7 (Purify)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L8": {
-    "requires": "|M1L8 (Climb)| or |Mission 1|"
+    "requires": "(|M1L8 (Climb)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L9": {
-    "requires": "|M1L9 (Fasttrack)| or |Mission 1|"
+    "requires": "(|M1L9 (Fasttrack)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   "M1L10": {
-    "requires": "|M1L10 (Glass Port)| or |Mission 1|"
+    "requires": "(|M1L10 (Glass Port)| or {YamlDisabled(level_unlocks)}) and (|Mission 1| or {YamlDisabled(mission_unlocks)})"
   },
   
   
   
   "M2L1": {
-    "requires": "|M2L1 (Take Flight)| or |Mission 2|"
+    "requires": "(|M2L1 (Take Flight)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L2": {
-    "requires": "|M2L2 (Godspeed)| or |Mission 2|"
+    "requires": "(|M2L2 (Godspeed)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L3": {
-    "requires": "|M2L3 (Dasher)| or |Mission 2|"
+    "requires": "(|M2L3 (Dasher)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L4": {
-    "requires": "|M2L4 (Thrasher)| or |Mission 2|"
+    "requires": "(|M2L4 (Thrasher)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L5": {
-    "requires": "|M2L5 (Outstretched)| or |Mission 2|"
+    "requires": "(|M2L5 (Outstretched)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L6": {
-    "requires": "|M2L6 (Smackdown)| or |Mission 2|"
+    "requires": "(|M2L6 (Smackdown)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L7": {
-    "requires": "|M2L7 (Catwalk)| or |Mission 2|"
+    "requires": "(|M2L7 (Catwalk)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L8": {
-    "requires": "|M2L8 (Fastlane)| or |Mission 2|"
+    "requires": "(|M2L8 (Fastlane)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L9": {
-    "requires": "|M2L9 (Distinguish)| or |Mission 2|"
+    "requires": "(|M2L9 (Distinguish)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   "M2L10": {
-    "requires": "|M2L10 (Dancer)| or |Mission 2|"
+    "requires": "(|M2L10 (Dancer)| or {YamlDisabled(level_unlocks)}) and (|Mission 2| or {YamlDisabled(mission_unlocks)})"
   },
   
   
   
   "M3L1": {
-    "requires": "|M3L1 (Guardian)| or |Mission 3|"
+    "requires": "(|M3L1 (Guardian)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L2": {
-    "requires": "|M3L2 (Stomp)| or |Mission 3|"
+    "requires": "(|M3L2 (Stomp)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L3": {
-    "requires": "|M3L3 (Jumper)| or |Mission 3|"
+    "requires": "(|M3L3 (Jumper)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L4": {
-    "requires": "|M3L4 (Dash Tower)| or |Mission 3|"
+    "requires": "(|M3L4 (Dash Tower)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L5": {
-    "requires": "|M3L5 (Descent)| or |Mission 3|"
+    "requires": "(|M3L5 (Descent)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L6": {
-    "requires": "|M3L6 (Driller)| or |Mission 3|"
+    "requires": "(|M3L6 (Driller)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L7": {
-    "requires": "|M3L7 (Canals)| or |Mission 3|"
+    "requires": "(|M3L7 (Canals)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L8": {
-    "requires": "|M3L8 (Sprint)| or |Mission 3|"
+    "requires": "(|M3L8 (Sprint)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L9": {
-    "requires": "|M3L9 (Mountain)| or |Mission 3|"
+    "requires": "(|M3L9 (Mountain)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   "M3L10": {
-    "requires": "|M3L10 (Superkinetic)| or |Mission 3|"
+    "requires": "(|M3L10 (Superkinetic)| or {YamlDisabled(level_unlocks)}) and (|Mission 3| or {YamlDisabled(mission_unlocks)})"
   },
   
   
   
   "M4L1": {
-    "requires": "|M4L1 (Arrival)| or |Mission 4|"
+    "requires": "(|M4L1 (Arrival)| or {YamlDisabled(level_unlocks)}) and (|Mission 4| or {YamlDisabled(mission_unlocks)})"
   },
   "M4L2": {
-    "requires": "|M4L2 (Forgotten City)| or |Mission 4|"
+    "requires": "(|M4L2 (Forgotten City)| or {YamlDisabled(level_unlocks)}) and (|Mission 4| or {YamlDisabled(mission_unlocks)})"
+  },
+  "M4L3": {
+    "requires": "(|M4L3 (The Clocktower)| or {YamlDisabled(level_unlocks)}) and (|Mission 4| or {YamlDisabled(mission_unlocks)})"
   }
 }

@@ -29,7 +29,7 @@
   {
     "name": "M1L2 (Pummel) - Gift",
     "category": ["Gifts"],
-    "requires": "|M1L2 (Pummel)| or |Mission 1|"
+    "region": "M1L2"
   },
   {
     "name": "M1L2 (Pummel) - Bronze Medal",
@@ -1163,7 +1163,7 @@
   {
     "name": "M4L3 (The Clocktower) - Beat Neon Green",
     "category": ["Goal"],
-    "requires": "(|M4L3 (The Clocktower)| or |Mission 4|) and |Elevate (discard)| and (|Elevate (main fire)| or |Purify (main fire)|)",
+    "requires": "((|M4L3 (The Clocktower)| or {YamlDisabled(level_unlocks)}) and (|Mission 4| or {YamlDisabled(mission_unlocks)})) and |Elevate (discard)| and (|Elevate (main fire)| or |Purify (main fire)|)",
     "victory": true
   },
   

@@ -23,14 +23,14 @@ Manual_NeonWhite_AHJV8N:
     items: 1
     minimal: 0
 
-  # WARNING: Either "level_unlocks" is true OR "mission_unlocks" is true.
-  # Enabling both options will lead to unexpected behavior.
+  # WARNING: If both "level_unlocks" and "mission_unlocks" are disabled,
+  # every level is accessible from the start.
 
   # Levels can only be accessed after finding them in the multiworld
   level_unlocks:
     true: 1
     false: 0
-  # All levels in a mission can be played once the mission is found
+  # All/Unlocked levels in a mission can be played once the mission is found
   mission_unlocks:
     true: 0
     false: 1
